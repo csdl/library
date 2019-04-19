@@ -3,7 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
----
+------------
+
+This page is a temporary location for the CSDL Tech Report library index.
 
 <h1>2018</h1>
 
