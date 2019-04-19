@@ -5,7 +5,7 @@
 layout: home
 ---
 
-This page is the temporary home of the CSDL Tech Report library index.
+This page is the temporary home for the CSDL Tech Report library index.
 
 <h1>2018</h1>
 
