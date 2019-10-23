@@ -7,6 +7,10 @@ layout: home
 
 This page is the temporary home for the CSDL Tech Report library index. See [csdl-trs.bib](https://github.com/csdl/techreports/blob/master/texmf/bibtex/bib/csdl-trs.bib) for a bibtex file containing citations to all of these papers.
 
+<h1>2020</h1>
+
+{% include_relative 2020.html %}
+
 <h1>2019</h1>
 
 {% include_relative 2019.html %}
